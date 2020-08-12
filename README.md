@@ -8,9 +8,10 @@
 ## 回路図
 * 早押しクイズのシステムの回路図
 <br>
-![回路図](./circuit.jpg)
+![回路図](https://github.com/sotasunohara/quiz_arduino/blob/master/circuit.jpg)
 
 ## 回路の部品
+* [Arduino Uno](https://www.switch-science.com/catalog/789/)
 * スイッチ×4
 * [LCD](http://akizukidenshi.com/catalog/g/gP-01675/)
 * [DFPlayerMini](http://akizukidenshi.com/catalog/g/gM-12544/)
@@ -24,4 +25,4 @@
 
 ## システムの写真
 * 完成したシステムの写真です
-![全体](./system.jpg)
+![全体](https://github.com/sotasunohara/quiz_arduino/blob/master/system.jpg)
