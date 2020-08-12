@@ -6,8 +6,8 @@
 * https://github.com/DFRobot/DFRobotDFPlayerMini をCloneしてzip化し、.inoと同じ階層に配置する
 
 ## 回路図
-* 早押しクイズのシステムの回路図
-<br>
+* 早押しクイズのシステムの回路図<br>
+
 ![回路図](https://github.com/sotasunohara/quiz_arduino/blob/master/circuit.jpg)
 
 ## 回路の部品
